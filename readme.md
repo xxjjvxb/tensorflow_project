@@ -1,12 +1,12 @@
 
 
 # Practice project for being familiar with tensorflow
+To become familiar with thesis by implementing papers related to artificial intelligence
 
 # To do
-
 ## Vision
-# Object Classification
-- [-] AlexNet
+### Object Classification
+- [ ] AlexNet  <ongoing>
 - [ ] VggNet
 - [ ] GoogLeNet
 - [ ] ResNet
