@@ -1,19 +1,19 @@
 
 
-## Practice project for being familiar with tensorflow
+# Practice project for being familiar with tensorflow
 
+# To do
 
-### To do
 ## Vision
 # Object Classification
-
-- [ ] AlexNet
+- [-] AlexNet
 - [ ] VggNet
 - [ ] GoogLeNet
 - [ ] ResNet
 - [ ] DenseNet
 - [ ] SENet
-- Object Detetion & Classification
+
+# Object Detetion & Classification
 - [ ] R-CNN
 - [ ] Fast R-CNN
 - [ ] Faster R-CNN
