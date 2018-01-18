@@ -6,7 +6,7 @@ To become familiar with thesis by implementing papers related to artificial inte
 ## Vision
 
 ### Object Classification
-- [ ] AlexNet : ongoing
+- [ ] AlexNet : ongoing > working on cifar data reader
 - [ ] VggNet
 - [ ] GoogLeNet
 - [ ] ResNet
