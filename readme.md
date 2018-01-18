@@ -1,19 +1,19 @@
 
 
 # Practice project for being familiar with tensorflow
-To become familiar with thesis by implementing papers related to artificial intelligence
+To become familiar with thesis by implementing papers related to artificial intelligence.
 
-# To do
 ## Vision
+
 ### Object Classification
-- [ ] AlexNet  <ongoing>
+- [ ] AlexNet : ongoing
 - [ ] VggNet
 - [ ] GoogLeNet
 - [ ] ResNet
 - [ ] DenseNet
 - [ ] SENet
 
-# Object Detetion & Classification
+### Object Detetion & Classification
 - [ ] R-CNN
 - [ ] Fast R-CNN
 - [ ] Faster R-CNN
@@ -22,4 +22,4 @@ To become familiar with thesis by implementing papers related to artificial inte
 - [ ] SSD
 - [ ] R-FCN
 
-- Sementic Segmentation
+### Sementic Segmentation
