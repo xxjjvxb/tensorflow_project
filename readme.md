@@ -6,21 +6,21 @@
 ## 영상처리
 
 ### 객체 판별[Object Classification]
-- [ ] AlexNet{http://219.co.kr} : ongoing > working on cifar data reader
-- [ ] VggNet
-- [ ] GoogLeNet
-- [ ] ResNet
-- [ ] DenseNet
-- [ ] SENet
+- [ ] [AlexNet](h​tps://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) : ongoing > working on cifar data reader
+- [ ] [VggNet](https://arxiv.org/pdf/1409.1556.pdf)
+- [ ] [GoogLeNet](https://arxiv.org/abs/1409.4842)
+- [ ] [ResNet](https://arxiv.org/pdf/1512.03385v1.pdf)
+- [ ] [DenseNet](https://arxiv.org/pdf/1608.06993.pdf)
+- [ ] [SENet](https://arxiv.org/abs/1709.01507)
 
 ### 객체 탐색 및 판별[Object Detetion & Classification]
-- [ ] R-CNN
-- [ ] Fast R-CNN
-- [ ] Faster R-CNN
-- [ ] Mask R-CNN
-- [ ] YOLO
-- [ ] SSD
-- [ ] R-FCN
+- [ ] [R-CNN](https://arxiv.org/pdf/1311.2524.pdf)
+- [ ] [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+- [ ] [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf)
+- [ ] [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
+- [ ] [YOLO](https://arxiv.org/pdf/1506.02640.pdf)
+- [ ] [SSD](https://arxiv.org/pdf/1512.02325.pdf)
+- [ ] [R-FCN](https://arxiv.org/pdf/1605.06409.pdf)
 
 ### Sementic Segmentation [ To be done ]
 - [ ] 
