@@ -6,7 +6,7 @@
 ## 영상처리
 
 ### 객체 판별[Object Classification]
-- [ ] [AlexNet](h​tps://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) : ongoing > working on cifar data reader
+- [ ] [AlexNet](h​tps://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) : ongoing
 - [ ] [VggNet](https://arxiv.org/pdf/1409.1556.pdf)
 - [ ] [GoogLeNet](https://arxiv.org/abs/1409.4842)
 - [ ] [ResNet](https://arxiv.org/pdf/1512.03385v1.pdf)
@@ -24,3 +24,7 @@
 
 ### Sementic Segmentation [ To be done ]
 - [ ] 
+
+
+
+잠정 중단
